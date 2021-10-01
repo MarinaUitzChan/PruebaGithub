@@ -1,2 +1,4 @@
 $protected $table='mascotas';
-4protected $primaryKey=''
+$protected $primaryKey='id_mascota';
+
+public $timestamps=false;
